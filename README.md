@@ -7,11 +7,9 @@
 
  ---
  
-- I am a FrontEnd Developer | Python | Learning Data Science <br/>
+- I am a FrontEnd Developer | Python | C++ | HTML | CSS | VERILOG | Learning Data Science <br/>
+- I am a Software Devloper. <br/>
 - I love to make **exciting projects**. <br/>
-- I really enjoy learning new languages and frameworks like React and Flutter <br/>
-
-
 
 <h1>Technical Skills 🛠</h1>
  
